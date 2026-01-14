@@ -55,7 +55,7 @@ jobs:
           echo "✅ Plugin docs copied to docs-builder"
 
       - name: Build documentation with Astro action
-        uses: withastro/action@v3
+        uses: withastro/action@v5
         with:
           path: ./docs-builder
           package-manager: bun@latest
