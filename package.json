@@ -1,6 +1,6 @@
 {
   "name": "@pantheon-org/opencode-agent-loader-plugin",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "Dynamic agent specification loader for OpenCode - Load custom AI agents from TypeScript files",
   "keywords": [
     "opencode",
